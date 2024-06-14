@@ -11,7 +11,13 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-We are Batikify, a team consist of seven member for Bangkit 2024 Batch 1 Capstone Project for C241-PS390.
+<div align="center">
+  <img src="https://storage.googleapis.com/batikify-md-assets/brown-logo.png" width="200" height="200">
+</div>
+
+<p align="center">
+  We are Batikify, a team consist of seven member for Bangkit 2024 Batch 1 Capstone Project for C241-PS390.
+</p>
 
 # About Our Team
 ## Preserving and Promoting the Rich Cultural Heritage of Batik
