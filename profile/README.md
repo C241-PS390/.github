@@ -12,7 +12,7 @@
 -->
 
 <div align="center">
-  <img src="https://storage.googleapis.com/batikify-md-assets/brown-logo.png" width="200" height="200">
+  <img src="https://github.com/user-attachments/assets/28469c86-6cbf-402f-afda-808057c9594c" width="200" height="200">
 </div>
 
 <p align="center">
